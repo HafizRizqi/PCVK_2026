@@ -1,1 +1,4 @@
-# Hunian-Lestari
+NIM : 244107020154
+NAMA : HAFIZ RIZQI HERNANDA
+KELAS : TI - 3C
+Pengolahan Citra dan Visi Komputer
